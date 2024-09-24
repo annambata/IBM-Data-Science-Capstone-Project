@@ -62,6 +62,3 @@ In this project, we use the SpaceX REST API and web scraping techniques to colle
 - **Success Rates**: Over time, launch success rates have improved due to SpaceX's advancements in rocket technology.
 - **Key Insights**: KSC LC-39A has the highest success rate, and higher payload masses are generally associated with higher success rates.
 
----
-
-This README provides a detailed overview of your project and ensures that anyone looking at your repository can easily understand the goals, methods, and conclusions of your analysis.
